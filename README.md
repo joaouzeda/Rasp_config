@@ -1,12 +1,13 @@
 <h1 align="center"> Configurações e aplicações do Servidor da operação </h1>
 
 <h2 align="center"> Hardware </h2>
+    <p aling = "center">
     - Raspberry Pi 3B<br/>
     - NodeMcu esp32<br/>
     - Shield Rasp-esp<br/>
     - Chip antena LoRa sx1276<br/>
     - Modulo 3g<br/>
-
+    </p>
 <h2 align="center"> Processo </h2>
 
     1. Instalar e configurar o broker
