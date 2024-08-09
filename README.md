@@ -6,7 +6,6 @@
 <p aling = "center"> NodeMcu esp32</p>
 <p aling = "center"> Shield Rasp-esp</p>
 <p aling = "center"> Chip antena LoRa sx1276</p>
-</p>
 
 <h2 align="center"> Processo </h2>
 
