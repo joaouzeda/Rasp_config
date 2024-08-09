@@ -1,11 +1,11 @@
 <h1 align="center"> Configurações e aplicações do Servidor da operação </h1>
 
 <h2 align="center"> Hardware </h2>
-    - Raspberry Pi 3B
-    - NodeMcu esp32
-    - Shield Rasp-esp
-    - Chip antena LoRa sx1276
-    - Modulo 3g
+    - Raspberry Pi 3B<br/>
+    - NodeMcu esp32<br/>
+    - Shield Rasp-esp<br/>
+    - Chip antena LoRa sx1276<br/>
+    - Modulo 3g<br/>
 
 <h2 align="center"> Processo </h2>
 
