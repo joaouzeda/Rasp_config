@@ -25,7 +25,7 @@ E no topo do aquivo digiar as linhas
 
 Após isso salve o arquivo cliando " Ctrl + x " e depois " S "; e reniciar a Raspberry
 
-```
+``` 
     $  reboot
 ```
 
