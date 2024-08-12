@@ -1,19 +1,5 @@
 <h1 align="center"> Configurações e aplicações do Servidor da operação </h1>
 
-<h2 align="center"> Navegação </h2>
-./src/* 
-  ├─ src/LoRa - # Configuração do recivier
-  ├─ src/Serial-Config - # Configuração do serial da Raspberry
-  ├─ src/ZeroTier - # Larger chunks of a page composed of multiple components
-  ├─ src/Mosquitto-Config - # Instalação e configuguração do mosquitto
-  ├─ src/Serial-Broker-Aplication/* - # Next.js file based routing
-  │  ├─ _app.js - # next.js app entry point
-  │  ├─ _document.js - # next.js document wrapper
-  │  ├─ global.css - #  Global CSS styles
-  │  └─ Everything else... - # File based routing
-  
-
-
 <h2 align="center"> Hardware </h2>
   
 <p aling = "center">   Raspberry Pi 3B</p>
